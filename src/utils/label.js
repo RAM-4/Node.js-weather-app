@@ -2,7 +2,7 @@ const label = {
     author: 'hamj',
     site: {
         name: 'Wezzer - Weather App',
-        index: 'Index',
+        index: 'index',
         about: 'About',
         help: {
             title: 'Help',
