@@ -3,9 +3,9 @@ const label = {
     site: {
         name: 'Wezzer - Weather App',
         index: 'index',
-        about: 'About',
+        about: 'about',
         help: {
-            title: 'Help',
+            title: 'help',
             error: 'Help article not found :(',
             message: 'I hope everything is ok :3'
         },
