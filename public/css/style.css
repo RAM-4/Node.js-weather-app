@@ -35,7 +35,8 @@ h1 {
 }
 
 .portrait {
-    border-radius: 90px;
+    border-radius: 360px;
+    width: 200px;
 }
 
 .main-content {
