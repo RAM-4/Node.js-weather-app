@@ -43,7 +43,7 @@ app.get('/about', ( req, res ) => {
 
 // Route to help
 app.get('/help', ( req, res ) => {
-    res.render( label.site.help, {
+    res.render( label.site.help.title, {
         title: label.site.help.title,
         message: label.site.help.message,
         name: label.author
